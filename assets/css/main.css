@@ -2436,6 +2436,7 @@ input, select, textarea {
 				font-size: 1.25em;
 			}
 
+
 /* Table */
 
 	.table-wrapper {
@@ -2678,12 +2679,14 @@ input, select, textarea {
 		.features article .inner {
 			display: inline-block;
 			vertical-align: middle;
-			width: 50%;
+			width: 100%;
 		}
 
 			.features article .inner > :last-child {
 				margin-bottom: 0;
 			}
+			
+
 
 /* Header */
 
